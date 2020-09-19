@@ -1,10 +1,11 @@
-git status
+git status - prints the status of git repo
 git init
 git config --global user.name "lets kode it"
-git config --global user.email letskodeit@gmail.com
+git config --global user.email "letskodeit@gmail.com"
 git config user.name "lets kode it"
-git config user.email letskodeit@gmail.com
+git config user.email "letskodeit@gmail.com"
 git add
 git commit -m ""
 git log
 Git diff <filename>
+Git checkout -- <filename>
