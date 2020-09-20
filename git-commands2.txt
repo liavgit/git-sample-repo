@@ -1,0 +1,11 @@
+git status - prints the status of git repo
+git init - initializes git repo
+git config --global user.name "lets kode it" - specify user name - para usar en todos  los repositorios que tengo
+git config --global user.email "letskodeit@gmail.com"- specify user pass
+git config user.name "lets kode it"  - para usar en  1 repositorio
+git config user.email "letskodeit@gmail.com"
+git add
+git commit -m ""
+git log
+Git diff <filename>
+Git checkout -- <filename>
